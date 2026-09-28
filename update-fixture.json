@@ -1,0 +1,9 @@
+{
+    "version": "1.4.0",
+    "notes": [
+        "Improved endpoint monitoring",
+        "Added automatic update flow",
+        "Improved worker stability",
+        "Improved update experience"
+    ]
+}
